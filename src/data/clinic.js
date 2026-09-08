@@ -41,8 +41,8 @@ export const clinic = {
   },
 
   hours: [
-    { days: 'Lunch service', time: 'Opens for lunch rush' },
-    { days: 'Afternoons', time: 'Often closes mid-afternoon' },
+    { days: 'Tue–Sat', time: '11:00 AM – 2:00 PM' },
+    { days: 'Sun–Mon', time: 'Closed' },
     { days: 'Payment', time: 'Cash only' },
   ],
 
